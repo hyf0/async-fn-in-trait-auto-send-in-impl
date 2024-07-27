@@ -1,0 +1,1 @@
+# async-fn-in-trait-auto-send-in-impl
